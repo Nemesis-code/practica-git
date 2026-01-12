@@ -1,1 +1,7 @@
 Hola GitHub 
+subirlo a GitHub
+
+git status
+git add hola.txt
+git commit -m "Agrego archivo hola.txt"
+git push
