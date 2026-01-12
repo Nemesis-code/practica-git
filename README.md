@@ -1,2 +1,5 @@
 # practica-git
-Práctica básica de Git y GitHub
+
+Mi primera práctica con Git y GitHub.
+Aprendiendo desde cero.
+
